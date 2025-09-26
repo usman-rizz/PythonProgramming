@@ -1,0 +1,12 @@
+{"27557": {"name": "usman", "subjects": {"oython": 8.0, "Eng": 67.0, "Ml": 89.0}, "percentage": 54.666666666666664}}
+{"56778": {"name": "asad", "subjects": {"AI": 88.0, "Usama": 90.0, "Sql": 76.0}, "percentage": 84.66666666666667}}
+
+Hello, This repo is about python Filing Exercises
+This is the second line
+This is the 3rd line but writing in same line
+usmanasadzubairusman salman asad{101: 'usman'}
+usman asad
+
+{27557: 'usman', 26553: 'Ali', 27665: 'Shehzar'}
+{27557: 'usman', 34567: 'Ali', 78766: 'Shehzar'}
+{"27557": "usman", "34567": "Ali", "78766": "Shehzar"}

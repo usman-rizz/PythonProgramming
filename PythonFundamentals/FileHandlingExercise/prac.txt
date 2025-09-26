@@ -1,0 +1,9 @@
+Hello, This repo is about python Filing Exercises
+This is the second line
+This is the 3rd line but writing in same line
+usmanasadzubairusman salman asad{101: 'usman'}
+usman asad
+
+{27557: 'usman', 26553: 'Ali', 27665: 'Shehzar'}
+{27557: 'usman', 34567: 'Ali', 78766: 'Shehzar'}
+{"27557": "usman", "34567": "Ali", "78766": "Shehzar"}
